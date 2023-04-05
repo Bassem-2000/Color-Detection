@@ -1,1 +1,1 @@
-# Color-Detection to detect color code the part selected in image using opencv
+# Color-Detection to detect color code of the part selected in image using opencv
